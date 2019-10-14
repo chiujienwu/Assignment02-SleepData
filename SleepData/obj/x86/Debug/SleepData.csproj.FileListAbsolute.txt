@@ -1,0 +1,6 @@
+C:\Users\JerryChiu\Documents\Fall 2019\Net Database Programming 156-101-10114-20 Jeff Grissom\Lesson 02\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\SleepData\bin\Debug\SleepData.exe.config
+C:\Users\JerryChiu\Documents\Fall 2019\Net Database Programming 156-101-10114-20 Jeff Grissom\Lesson 02\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\SleepData\bin\Debug\SleepData.exe
+C:\Users\JerryChiu\Documents\Fall 2019\Net Database Programming 156-101-10114-20 Jeff Grissom\Lesson 02\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\SleepData\bin\Debug\SleepData.pdb
+C:\Users\JerryChiu\Documents\Fall 2019\Net Database Programming 156-101-10114-20 Jeff Grissom\Lesson 02\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\SleepData\obj\x86\Debug\SleepData.exe
+C:\Users\JerryChiu\Documents\Fall 2019\Net Database Programming 156-101-10114-20 Jeff Grissom\Lesson 02\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\SleepData\obj\x86\Debug\SleepData.pdb
+C:\Users\JerryChiu\Documents\Fall 2019\Net Database Programming 156-101-10114-20 Jeff Grissom\Lesson 02\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\SleepData\obj\x86\Debug\SleepData.csprojAssemblyReference.cache
